@@ -4,7 +4,7 @@ def countdown
 number -= 1
   puts "#{number} SECOND(S)!"
 end
- return"HAPPY NEW YEAR!"
+ "HAPPY NEW YEAR!"
 end
 
 def countdown_with_sleep
